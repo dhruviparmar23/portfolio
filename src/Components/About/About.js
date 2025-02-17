@@ -107,36 +107,36 @@ const About = () => {
             </p>
           </div>
           <div className="lang">
-          <div className="skill-images">
-            <div className="skill-logo">
-              <img src={html} alt="HTML" /><p>HTML</p>
+            <div className="skill-images">
+              <div className="skill-logo">
+                <img src={html} alt="HTML" /><p>HTML</p>
+              </div>
+              <div className="skill-logo">
+                <img src={css} alt="CSS" /><p>CSS</p>
+              </div>
+              <div className="skill-logo">
+                <img src={js} alt="JavaScript" /><p>JavaScript</p>
+              </div>
+              <div className="skill-logo">
+                <img src={react} alt="React" /><p>React</p>
+              </div>
+              <div className="skill-logo">
+                <img src={python} alt="Python" /><p>Python</p>
+              </div>
+              <div className="skill-logo">
+                <img src={git} alt="GitHub" /><p>GitHub</p>
+              </div>
+              <div className="skill-logo">
+                <img src={boot} alt="Bootstrap" /><p>Bootstrap</p>
+              </div>
             </div>
-            <div className="skill-logo">
-              <img src={css} alt="CSS" /><p>CSS</p>
-            </div>
-            <div className="skill-logo">
-              <img src={js} alt="JavaScript" /><p>JavaScript</p>
-            </div>
-            <div className="skill-logo">
-              <img src={react} alt="React" /><p>React</p>
-            </div>
-            <div className="skill-logo">
-              <img src={python} alt="Python" /><p>Python</p>
-            </div>
-            <div className="skill-logo">
-              <img src={git} alt="GitHub" /><p>GitHub</p>
-            </div>
-            <div className="skill-logo">
-              <img src={boot} alt="Bootstrap" /><p>Bootstrap</p>
-            </div>
-          </div>
           </div>
           <div className="resume-link">
             <div className="link-desc">
               <p>Check out My Resume</p>
               <img className="hand-img" src={hand} alt="Swipe right" />
             </div>
-            <a href="https://acrobat.adobe.com/id/urn:aaid:sc:ap:28accf9d-4b39-4cf5-bf9a-cb091b31c094" target="_blank" rel="noopener noreferrer">Resume</a>
+            <a href="https://acrobat.adobe.com/id/urn:aaid:sc:AP:5e2d3456-5e38-4690-99b6-96ffa2ee686d" target="_blank" rel="noopener noreferrer">Resume</a>
           </div>
         </div>
       </div>
@@ -145,3 +145,4 @@ const About = () => {
 };
 
 export default About;
+ 

@@ -122,9 +122,9 @@
 
 /* Larger screens, always show the nav links */
 @media (min-width: 700px) {
-    .menu-icon {
+    /* .menu-icon {
         display: none;
-    }
+    } */
 
     .nav-item {
         display: flex;
